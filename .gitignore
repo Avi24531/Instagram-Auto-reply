@@ -1,0 +1,23 @@
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# n8n local data
+.n8n/
+n8n-data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Node (in case any helper scripts are added later)
+node_modules/
