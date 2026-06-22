@@ -35,7 +35,7 @@ Webhook ──┬──> If (verify token check) ──> Respond to Webhook
 
 ### 1. Import the workflow
 
-In your n8n instance, go to **Workflows → Import from File** and select [`workflows/auto-reply-instagram.json`](workflows/auto-reply-instagram.json).
+In your n8n instance, go to **Workflows → Import from File** and select [`workflows/auto-reply-instagram.json`](auto-reply-instagram.json).
 
 ### 2. Configure credentials
 
